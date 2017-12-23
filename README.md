@@ -9,10 +9,10 @@
 因为会封杀全部的脚本    
 目前提供Chrome预览版  
 
-ToDoList
-Safari
-Firefox
-白名单
-实时监测网页是否使用
-欢迎PR
-仅供研究，不对造成的损失负责XD
+ToDoList  
+Safari  
+Firefox  
+白名单  
+实时监测网页是否使用  
+欢迎PR  
+仅供研究，不对造成的损失负责XD  
