@@ -2,7 +2,7 @@
     "author": "TuziMoe",
     "manifest_version": 2,
     "name": "StopMining",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "阻止网页挖矿脚本",
     "content_scripts": [
         {
@@ -21,6 +21,7 @@
     "web_accessible_resources": [ "js/*" ],
     "browser_action": {
         "default_popup": "popup.html",
+        "default_option": "white.html",
         "default_icon": {
             "16": "icon/icon16.png",
             "19": "icon/icon19.png",
